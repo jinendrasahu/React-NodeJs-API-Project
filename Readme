@@ -1,0 +1,5 @@
+I did not removed node_modules so you just need to download zip file of this froject and open it in any code edditor go to front directory and run command "npm start"
+go back to main directory and go to generator directory and run command "npm start" a file will be open in your default browser just refresh it.If you are properly follow this step 
+website will run successfully.You will see an input field give comma separated roll number input number only(because I did not put a validation to Input) and click submit button 
+It(client) will send data to generator(Server) and generator having myapi file will return a coresponding data from given API about roll number and return to our front(client)
+which will append the array and wait untill all the data will receive successfully and it will render it to our webpage.
